@@ -1,0 +1,112 @@
+Twine script draft
+Twine Script
+
+Your journey is going to take you to the (name), the largest gathering of fellow (what are you) in the realm. There, you will present your findings on the Commandant-Lariviere families, two distinguished and ancient families in the realm. You are excited to debut a beautiful new map you have created, showing where these families appear over time. You created this map using ancient documents found in the elusive and secret (NAME) archive.
+
+You reach into your saddlebag to look at your map one last time, only to discover that it has been stollen!
+
+What do you do?
+Try and track down the individual who stole you map?
+Decide that you should start from scratch, and build a new map?
+
+With a heavy heart, you must start your research from the beginning...
+But wait!
+Of course, you remember, it you have a copy of the information you used to create your map saved in your magical (name of computer.)
+
+You venture back to your academic hole, and find your (name of computer.)
+
+You turn it on.
+
+Ah-ha! You've located your information, the genealogytable.
+Here is what it looks like.
+See, it has the names of the family members, the documents that place them in a particular location, and the geographical coordinates for that location.
+
+
+But you still have to build your map over.
+
+You must remember how you did this.
+Do you remember...
+Or give up.
+
+You remember, you used a program on the interweb called CartoDB.
+You type in the CartoDB link in your web browser.
+
+Next, you must login.
+
+You clikc on "Maps" in the top right corner.
+Next, you click on "New Map."
+
+Great, now you must import your information into CartoDB. Select "Connect Dataset" and upload genealogytable. 
+
+Because CartoDB is such a magical program, it has immedieately created a map based off of genealogytable. Amazing! See
+(image)
+
+Let's take a look at Data View.
+
+We can see that CartoDB has recognised the geographical coordinates (longitude and latitude), and this is what they are using to plot the point.
+(image)
+
+Let's go back to Map View.
+
+Let's take a look at our map. 
+Hmm, this doesn't like quite like the one we had made. We can see it has plotted the points, but doesn't show if there are more than 1 person at a particular point. It also doesn't show when they were there.
+This won't do.
+
+Let's see what kind of tools CartoDB has to better visualize our data.
+On the right hand side, let's click on the "wizard" tab.
+
+CartoDB shows us different options for the visualisation of our data. Let's choose Cluster.
+Now Cluster looks better, we can see that 8 family members were at Mattawa.
+
+This visualisation is better, but should we look at more?
+
+Back at the wizard tab, we see something called "Torque." That sounds fun.
+In Torque, we have the option to animate our data, in this case the family's movements across the space and through time. 
+This is really nice. Do we like this, or want to see more?
+
+Back at the wizard tab, we see something called "Heatmap." That sounds fun.
+In Heatmap, we can see areas were people resided. 
+This is really nice. Let's pick the style of visualisation we want:
+Torque
+Cluster
+Heatmap
+
+Now that we've figured out visualisations our, let's personalise it.
+Should we
+Change the Background
+Edit the Bubbles
+
+Change the Background
+Let's click on "Change basemap" in the bottom left corner.
+See, there are different options we can choose for our map, include night-time maps, watercolour, and even uploading a background of our own.
+Do we want to pick a new map?
+
+Do we like watercolour, or dark matter?
+
+Great, are we ready to go, or should we edit our bubbles?
+
+Torque:
+In Torque, we want to make sure we have our "year" column selected under "Time Column." This will let us move forward through time.
+As our shape marker, we can have an ellipse or a rectangle.
+Next, let's pick our colour, blue or red.
+How long should our marker show up? 20 or 30 seconds?
+
+Cluster:
+What colour should our bubble be, orange or green?
+
+Heatmap:
+How big should our marker be? 21 or 33?
+How opaque should the marker be? 0.4.
+Should it be animated, like Torque?
+Yes: We want to make sure we have our "year" column selected under "Time Column." This will let us move forward through time.
+How many seconds should it be? 10, or 20?
+No (move right to Great!)
+
+Great! Let's publish our map, so we can head off to our gatherin of (what).
+Check out your map:
+
+
+Phew, we finished this in the nick of time! Good luck!
+
+
+

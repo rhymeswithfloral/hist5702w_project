@@ -1,0 +1,22 @@
+Twine Cheat Sheet
+
+Links (connections between passages) (Also creates them)
+[[Name here]]
+
+*makes words italicised*
+**bolded**
+
+[[Red door<-one door]] [[other door- >Blue Door]] (Changes the name so it doesn't have to appear as Red Door/Blue Door
+
+Go with Harlowe, seems the easiest.
+
+Adding an Image---http://twinery.org/wiki/twine2:add_an_image_movie_sound_effect_or_music
+
+<img src="the URL of your image" width="500" height="300" alt="Two foxes">
+
+<video src="the URL of your video" width="640" height="480">
+</video>
+
+Small rocketship button sets that passage as the start of the game.
+
+The referee reveals that the coin is (either:"heads","tails"). --Randomness
