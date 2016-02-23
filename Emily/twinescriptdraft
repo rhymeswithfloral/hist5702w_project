@@ -1,4 +1,3 @@
-Twine script draft
 Twine Script
 
 Your journey is going to take you to the (name), the largest gathering of fellow (what are you) in the realm. There, you will present your findings on the Commandant-Lariviere families, two distinguished and ancient families in the realm. You are excited to debut a beautiful new map you have created, showing where these families appear over time. You created this map using ancient documents found in the elusive and secret (NAME) archive.
@@ -36,10 +35,12 @@ Next, you must login.
 You clikc on "Maps" in the top right corner.
 Next, you click on "New Map."
 
-Great, now you must import your information into CartoDB. Select "Connect Dataset" and upload genealogytable. 
+Great, now you must import your information into CartoDB. Select "Connect Dataset" and upload your table. 
 
-Because CartoDB is such a magical program, it has immedieately created a map based off of genealogytable. Amazing! See
-(image)
+Because CartoDB is such a magical program, it has immedieately created a map based off of your table. Amazing! 
+If you want to create a map using genealogy, follow this path.
+If you want to create a map using (whatever), follow this path.
+
 
 Let's take a look at Data View.
 
@@ -66,13 +67,14 @@ This is really nice. Do we like this, or want to see more?
 
 Back at the wizard tab, we see something called "Heatmap." That sounds fun.
 In Heatmap, we can see areas were people resided. 
+
 This is really nice. Let's pick the style of visualisation we want:
 Torque
 Cluster
 Heatmap
 
 Now that we've figured out visualisations our, let's personalise it.
-Should we
+Should we:
 Change the Background
 Edit the Bubbles
 
@@ -89,24 +91,55 @@ Torque:
 In Torque, we want to make sure we have our "year" column selected under "Time Column." This will let us move forward through time.
 As our shape marker, we can have an ellipse or a rectangle.
 Next, let's pick our colour, blue or red.
-How long should our marker show up? 20 or 30 seconds?
 
 Cluster:
 What colour should our bubble be, orange or green?
 
 Heatmap:
 How big should our marker be? 21 or 33?
-How opaque should the marker be? 0.4.
 Should it be animated, like Torque?
 Yes: We want to make sure we have our "year" column selected under "Time Column." This will let us move forward through time.
-How many seconds should it be? 10, or 20?
+How many seconds should it be?
 No (move right to Great!)
 
 Great! Let's publish our map, so we can head off to our gatherin of (what).
 Check out your map:
+Cluster--Orange
+Cluster--Green
 
+Torque--Elipse Red
+Troque--Elipse Blue
+Torque--Rectange Red
+Torque--Rectange Blue
+
+Heatmap--21
+Heatmap--33
+Heatmap--21 and animated
+Heatmap--33 and animated
 
 Phew, we finished this in the nick of time! Good luck!
+
+You've arrived at the conference, fantastic!
+Now to present your findings, and the analysis of your map.
+What kinds of things do you see, looking at the map you've created?
+1) It's pretty...but nothing.
+2) Over time, the family appears to be moving further West, into Northern Ontario.
+
+(Option 2)
+Great! What else?
+Mattawa appears to be a significant location for this family, at leas tin the early 1880s. If we look closer at our Data, many of the individuals celebrate significant life events in mattawa, including baptism, marriage etc.
+However by the early 1900s, the family has moved awya from the area, closer to North Bay, and are living on the Indian Reserve.
+Great! What else?
+The earliest recorded ethnicity is "White." But we know from our research that the census enumerator also left this note "note."
+10 years later, they are noted as Indian, then back to Half-Breed/French, then Indian, then Algonquin/Iroquois.
+It seems to suggest a fluidity in identity/ethnicity, and at least by the end of the 1880s-1900s, the family is "Indian" rather than "French" or "White."
+Michelle Hamilton explains that by the 1871 census,  census enumerators were instructed to pose questions (rather than to simply observe and note ethnicity.) 
+
+ 
+
+
+
+
 
 
 
