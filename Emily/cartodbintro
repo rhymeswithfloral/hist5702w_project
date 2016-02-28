@@ -1,0 +1,11 @@
+What is CartoDB?
+
+CartoDB is a mapping and analysis tool. 
+It takes data that has been tagged with a location (usually latitude and longitude coordinates), and inputs them into a geocoder, thereby allowing them to be placed onto a map.
+Your data doesn't necessairly need to be a lat/long, but can be things like an IP address, or even just a city name.
+CartoDB provides basemaps that showcase your data, from NOKIA, NASA, and even features the option of including your own.
+One feature of CartoDB is that your data (unless you upgrade your account) is public, meaning that when you're creating your own maps you can combine and layer datasets (so you can see things like state boundaries etc.)
+A number of big name companies use CartoDB, including unicef, Google, and Twitter.
+A big draw for CartoDB is it's easy usability, and the fact that you can sign up for free.
+CartoDB also offers different ways of viewing your mapping you data, whether by animating it to show migration patterns, hotspots etc.
+https://www.youtube.com/watch?v=WFUlUkaFI2I
