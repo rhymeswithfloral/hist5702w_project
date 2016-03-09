@@ -1,6 +1,45 @@
 Updated passages.
 Passages plus changes (Passage title: text....)
 
+Do you remember...:
+You remember, you used a program on the interweb called CartoDB.
+CartoDB is a computing platform that provides mapping and data visualisation tools. Everything is hosted online, which makes it easily accessible. It is easy to use, and once you've uploaded your data it immedieately detects (and plots) geospatial data (such as longitude and latitude.) 
+You type in the CartoDB link in your web browser.
+[[Next, you must login.]]
+
+genealogy, follow this path.:
+Let's take a look at Data View.
+We can see that CartoDB has recognised the geographical coordinates (longitude and latitude) in our data, and this is what they are using to plot the point.
+Let's go back to [[Map View.]]
+
+Map View:
+This is the map that CartoDB has automatically generated. We can see that it has plotted the geographical coordinates associated with the movements of our family. 
+However, looking at the map currently, there are some issues. First, from our data we know that there were multiple members of a family in a particular spot. The way our data is visualised currently this isn't represented in the map. Instead of having 8 points at one spot, we only have one.  
+This won't do.
+Let's see what kind of (click: "tools CartoDB")[(display: "tools CartoDB")]] has to better visualize our data.
+
+tools CartoDB:
+CartoDB has different options to visualise data that may be better suited for our pruposes. Let's take a look at some of the other tools CartoDB offers. We can access this by clicking on the paintbrush in our wizard tab on the right hand side.
+Let's take a look at (click: "Cluster")[(display: "Cluster2")]]
+
+Cluster2:
+Cluster looks better. We can see that 8 family members were at Mattawa. This is much better than the Simple option, as it gives us a better understanding of how many people were in one place at one time.
+This visualisation is better, but should we look at more?
+(click: "Yes")[(display: "Torque2")]]
+[[No|map]
+
+Torque2:
+Back at the wizard tab, we see something called "Torque." That sounds fun.
+Torque gives us the option to animate our data, in this case the family's movements across the space and through time. 
+This is really nice. Do we like this, or want to see more?
+(click: "Yes")[(display: "Heatmap2")]]
+[[No|map]]
+
+Heatmap2:
+Back at the wizard tab, we see something called "Heatmap." That sounds fun.
+In Heatmap, the more times a particular geographical coordinate appears in your data, the larger the marker. The marker grows in size (and deepens in colour) with the frequency of the appearance of a geographical coordinate. For example, we can see that the marker at Mattawa is quite larger, and red, which corresponds with how many times Mattawa appears in our data.
+[[Look at the time, we should keep moving|map]]
+
 map: Do we like (click: "watercolour")[(display: "watercolour")] (click: "dark matter")[(display: "dark matter")]
 watercolour: Here it is! You think this is the right map for the trials of the Datamancer. Let's move on to [[Edit the Bubbles]].
 dark matter: Here it is! Hmm, this is a little dark. Let's see what [[watercolour]] looks like.
