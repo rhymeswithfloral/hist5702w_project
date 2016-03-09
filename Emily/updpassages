@@ -1,0 +1,32 @@
+Updated passages.
+Passages plus changes (Passage title: text....)
+
+map: Do we like (click: "watercolour")[(display: "watercolour")] (click: "dark matter")[(display: "dark matter")]
+watercolour: Here it is! You think this is the right map for the trials of the Datamancer. Let's move on to [[Edit the Bubbles]].
+dark matter: Here it is! Hmm, this is a little dark. Let's see what [[watercolour]] looks like.
+
+
+Heatmap: How big should our marker be? [[21]] or [[33]]?
+21: Should it be animated, like Torque? [[Yes make me animated|animated 21]] [[No, let's go|go]]
+Yes make me animated: Here it is! [[Now,let's go|go]]
+33: Should it be animated, like Torque? [[Yes make me animated|animated 33]] [[No, let's go|go]]
+Yes make me animated: Here it is! [[Now,let's go|go]]
+
+Cluster: What colour should our bubble be, [[orange]] or [[green]]?
+orange: Here it is! [[Now,let's go|go]]
+green: Here it is! [[Now,let's go|go]]
+
+Torque: In the wizard for Torque, we want to make sure we have our "year" column selected under "Time Column." This will let us move forward through time.
+As our shape marker, we can have an [[ellipse]] or a [[rectangle]].
+
+ellipse: Next, let's pick our colour. 
+(click: "blue ellipses")[(display: "blue ellipses")]
+(click: "red ellipses")[display: "red ellipses")]
+blue ellipses: Here it is! [[Now,let's go|go]]
+red ellipses: Here it is! [[Now,let's go|go]]
+
+rectange: Next, let's pick our colour.
+(click: "blue rectangle")[(display: "blue rectangle")]
+(click: "red rectangle")[display: "red rectangle")]
+blue rectangle: Here it is! [[Now,let's go|go]]
+red rectangle: Here it is! [[Now,let's go|go]]
