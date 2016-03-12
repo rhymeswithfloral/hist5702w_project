@@ -1,0 +1,83 @@
+<html>
+<head>
+ <title>Brimstone | Witches in Early Modern England</title>
+
+<!--// jquery files -->
+	<link rel="stylesheet" href="/brimstone/css/jq.css" type="text/css" media="print, projection, screen" />
+	<link rel="stylesheet" href="/brimstone/css/style.css" type="text/css" media="print, projection, screen" />
+  <script type="text/javascript" src="/brimstone/js/jquery-1.5.min.js"></script>
+  <script type="text/javascript" src="/brimstone/js/jquery.tablesorter.min.js"></script>
+	<script type="text/javascript" src="/brimstone/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/brimstone/js/jquery.bgiframe-2.1.2.js"></script>
+	<script type="text/javascript" src="/brimstone/js/jquery-ui-i18n.min.js"></script>
+<!-- // end jquery -->
+
+<!-- // WEME-specific files -->
+  <link href="http://witching.org/sites/witching.org/themes/weme/css/main.css" rel="stylesheet" type="text/css" />
+  <style type="text/css">
+    BODY {
+    	padding: 5px;
+    	}
+    #header H2 A {
+    	color: #84362B;
+    	}
+    #header h2 a:hover {
+      color: #2A65AD;
+ 			}
+   </style>
+<!-- // end WEME-specific files -->
+
+<script type="text/javascript">
+// sets up tables below
+$(document).ready(function()
+    {
+ 	$.tablesorter.defaults.widgets = ['zebra'];
+	$.tablesorter.defaults.sortList = [[2,0]];
+  $("#myTable").tablesorter();
+
+	$.tablesorter.defaults.sortList = [[1,0]];
+ 	$("#totals").tablesorter();
+    }
+);
+</script>
+
+</head>
+<body>
+
+
+<a name="top" id="top"></a>
+		<div id="header">
+						<h1><a href="http://witching.org">Witches in Early Modern England</a></h1>
+
+				<h2><a href="/brimstone" style="color: black;">Brimstone</a></h2>
+		</div>
+<a href="javascript:history.back();">Go back</a>
+<div class="demo">
+<div id="accordion">
+<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active">
+<table width="100%" border="1" id="myTable" class="tablesorter">
+
+
+	<caption style="text-align: left;">
+	<h1>
+	List of all Event assertions around a specific date	</h1>
+	</caption>
+<thead>
+	<tr>
+	</tr>
+  <tr>
+  <th>ID</th>
+  <th>Short Description</th>
+  <th>Date</th>
+  <th>City</th>
+  <th>Parish</th>
+  <th>Current County</th>
+  <th>Old county</th>
+  <th>Nation</th>
+
+</tr>
+</thead>
+<tbody>
+
+0 records returned.</table>
+</div>
