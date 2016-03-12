@@ -1,0 +1,79 @@
+go:
+Phew, we finished this in the nick of time!
+
+[[Head to the Trials of the Datamancer.]]
+[[Decide that you need a nap, screw the conference|Or give up.]]
+
+Head to the Trials of the Datamancer:
+You've arrived at the conference, fantastic!
+
+Your panel is up next. For your panel, you'll talk about your research, how you built your map, and then analyze your findings.
+
+Let's go over some of your key points for your presentation.
+
+What kinds of things do you see, looking at the map you've created?
+[[It's pretty...but nothing.]]
+[[Over time, the family appears to be moving further West, into Northern Ontario.]]
+
+It's pretty...but nothing:
+Well after making this discovery, you
+
+[[Decide that you need a nap, screw the conference|Or give up.]]
+
+Over time, the family...:
+Great! What else?
+
+Mattawa appears to be a significant location for this family.
+While maps like the one we've created are very useful, they need to be analyzed in conjuncture with our data.
+If we look closer at our data, many of the individuals celebrate significant life events in Mattawa, including baptism, marriage etc.
+However by the early 1900s, the family has moved away from the area, closer to North Bay, and are living on the Indian Reserve.
+
+[[Great! What else?]]
+
+Great! What else?:
+The earliest recorded ethnicity is "White." 
+Going over this fact, you remember that in 1861, the census enumerator left this note on the census for the family:
+“These people are so mixed up with Indian that I scarcely know what to call them. The principle mixture is white, and they cultivate the soil, so I call them white.”
+
+**Library and Archives Canada, RG 31, Statistics Canada, Census of Canada, 1861, C-1091, District 6, Nipissing, 42, lines 4-17.**
+
+10 years later, they are noted as Indian, then back to Half-Breed/French, then Indian, then Algonquin/Iroquois.
+It seems to suggest a fluidity in identity/ethnicity, and at least by the end of the 1880s-1900s, the family is "Indian" rather than "French" or "White."
+
+[[What else have you learned?]]
+
+What else have you learned?:
+What did you learn about data visualisations?
+
+[[They're awesome. They make your presentation look so cool.]]
+[[There are many options avialable.]]
+
+They're awesome. They make your...:
+Well, that's true.
+
+But is there anything that you might need to [[consider]] when creating visualisations?
+
+There are many options available:
+You're right, there are many options available.
+
+But remember that data visualizations can be [[decieving|consider]]....
+
+consider:
+Something important to remember is that no data visualisation is simply created. Each is created with a specific purpose in mine. In our cases, we wanted to track the movement of people over an area and time. We ended chosing CartoDB for the tool, but we could have done lots of different things with our data, depending on what kind of end-product.
+We could have used lots of different visualisation tools on our data, including:
+[[Network Analaysis|http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources]]
+
+Remember, even a chart is a type of data visualisation.
+
+[[You feel prepared, and you present your work]]
+
+You feel prepared...:
+Congratulations! Your colleagues thought both your map, and your analysis of the data was great!
+Many of them also talked about different mapping tools available online, including:
+[[Palladio|http://palladio.designhumanities.org/]]
+[[Google Maps|https://support.google.com/mymaps/answer/3024454?hl=en]]
+
+Congratulations on a job well done. Time now to return [[home.|Your journey begins at dawn]]
+
+
+You feel ready. You better [[head to your presentation|End.]]!
