@@ -9,10 +9,12 @@
 +http://www.freestockphotos.biz/stockphoto/15150 (modifications made)
 +http://www.clipartlord.com/wp-content/uploads/2014/01/treasure-chest5.png __This free locked treasure chest clip art is brought to you courtesy of Vladimir Zuñiga of Foca.tk.__
 +https://openclipart.org/detail/1011/skull-07 __Traced from a public domain image found at__ +http://www.wpclipart.com/signs_symbol/skull/index.html
-+https://upload.wikimedia.org/wikipedia/commons/6/66/Osborne_1_open.jpg
-+http://fence-post.deviantart.com/art/Ascii-Kaleidoscope-Animation-71146017 -Ascii Kaleidoscope Animation by fence-post on deviantart Licensed under Creative Commons
-+http://www.clker.com/clipart-pirate-flag-boat-.html __released under the lastest version of the creative commons CC0 public domain dedication__
-+http://www.clker.com/clipart-blue-vortex.html __released under the lastest version of the creative commons CC0 public domain dedication__
++https://upload.wikimedia.org/wikipedia/commons/6/66/Osborne_1_open.jpg - __Wiki Commons__
++http://fence-post.deviantart.com/art/Ascii-Kaleidoscope-Animation-71146017 - __"Ascii Kaleidoscope Animation" by fence-post, on deviantart Licensed under Creative Commons__
++http://pkoller.deviantart.com/art/Obvious-Troll-or-Ogre-543360961 - __Obvious Troll... or Orgre" by PKoller, on deviantart Licensed under Creative Commons__
++http://www.clker.com/clipart-pirate-flag-boat-.html - __released under the lastest version of the creative commons CC0 public domain dedication__
++http://www.clker.com/clipart-blue-vortex.html - __released under the lastest version of the creative commons CC0 public domain dedication__
++https://upload.wikimedia.org/wikipedia/commons/b/b1/Magic_Hat.svg - __**Wiki Commons**__
 
 ## Sound Effects (Public Domain)
 http://soundbible.com/1821-IMac-Startup-Chime.html
