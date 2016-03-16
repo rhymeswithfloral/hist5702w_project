@@ -15,6 +15,7 @@
 +http://www.clker.com/clipart-pirate-flag-boat-.html - __released under the lastest version of the creative commons CC0 public domain dedication__
 +http://www.clker.com/clipart-blue-vortex.html - __released under the lastest version of the creative commons CC0 public domain dedication__
 +https://upload.wikimedia.org/wikipedia/commons/b/b1/Magic_Hat.svg - __**Wiki Commons**__
++https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Browser_window.svg/2000px-Browser_window.svg.png - __**Wiki Commons**__
 
 ## Sound Effects (Public Domain)
 http://soundbible.com/1821-IMac-Startup-Chime.html
