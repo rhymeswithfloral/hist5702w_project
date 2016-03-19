@@ -11,11 +11,12 @@
 +https://openclipart.org/detail/1011/skull-07 __Traced from a public domain image found at__ +http://www.wpclipart.com/signs_symbol/skull/index.html
 +https://upload.wikimedia.org/wikipedia/commons/6/66/Osborne_1_open.jpg - __Wiki Commons__
 +http://fence-post.deviantart.com/art/Ascii-Kaleidoscope-Animation-71146017 - __"Ascii Kaleidoscope Animation" by fence-post, on deviantart Licensed under Creative Commons__
-+http://pkoller.deviantart.com/art/Obvious-Troll-or-Ogre-543360961 - __Obvious Troll... or Orgre" by PKoller, on deviantart Licensed under Creative Commons__
++http://pkoller.deviantart.com/art/Obvious-Troll-or-Ogre-543360961 - __"Obvious Troll... or Orgre" by PKoller, on deviantart Licensed under Creative Commons__
 +http://www.clker.com/clipart-pirate-flag-boat-.html - __released under the lastest version of the creative commons CC0 public domain dedication__
 +http://www.clker.com/clipart-blue-vortex.html - __released under the lastest version of the creative commons CC0 public domain dedication__
 +https://upload.wikimedia.org/wikipedia/commons/b/b1/Magic_Hat.svg - __**Wiki Commons**__
 +https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Browser_window.svg/2000px-Browser_window.svg.png - __**Wiki Commons**__
++https://www.flickr.com/photos/rvoegtli/8327407578 - __"Magic Moment" by Rosmarle Voegtll on Flickr__
 
 ## Sound Effects
 +http://soundbible.com/1821-IMac-Startup-Chime.html - Public Domain
