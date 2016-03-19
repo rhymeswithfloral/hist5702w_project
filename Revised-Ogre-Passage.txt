@@ -1,0 +1,104 @@
+Revised version of ogre passage - needs to be added 03/18/16
+
+(set: $ogre to (transition: "shudder"))
+(set: $water to (transition: "shudder"))
+After making this discovery, you begin to pack up. You feel the table vibrate, when you look down at your glass of water you notice it {(live: 2s)[$water[shudders]]}
+
+{[  ]<timed-append|
+(set: $delay to 1s)
+(live: $delay * 1)[(stop:)(append: ?timed-append)[ ]]
+(live: $delay * 2)[(stop:)(append: ?timed-append)[ ]]
+(live: $delay * 3)[(stop:)(append: ?timed-append)[Are those footsteps?]]
+(live: $delay * 4)[(stop:)(append: ?timed-append)[ ]]
+(live: $delay * 5)[(stop:)(append: ?timed-append)[ ]]
+(live: $delay * 6)[(stop:)(append: ?timed-append)[<br>You look up]]
+(live: $delay * 7)[(stop:)(append: ?timed-append)[ ]]
+(live: $delay * 8)[(stop:)(append: ?timed-append)[(text-style: "bold")[, a hungry Ogre looms before you! $ogre[<img src="http://img04.deviantart.net/dd57/i/2015/182/1/8/obvious_troll____or_ogre__by_pkoller-d8zi401.jpg?raw=true" height="700px">]]]]
+(live: $delay * 9)[(stop:)(append: ?timed-append)[<h4>He eats you.<h4>
+<h2>Game Over</h2>
+<h3>Return to [[The Beginning]].</h3>]]}
+
+
+
+
+REVISED Dataset connected passage
+<div class="terminalbox">
+<div class="introcontainer">
+<font style="font-family:"'Monospace'";color:#FFFFFF";>
+##Your information has been imported.
+
+<code>{[  ]<timed-append|
+(set: $delay to 100ms)
+(live: $delay * 1)[(stop:)(append: ?timed-append)[U]]
+(live: $delay * 2)[(stop:)(append: ?timed-append)[p]]
+(live: $delay * 3)[(stop:)(append: ?timed-append)[l]]
+(live: $delay * 4)[(stop:)(append: ?timed-append)[o]]
+(live: $delay * 5)[(stop:)(append: ?timed-append)[a]]
+(live: $delay * 6)[(stop:)(append: ?timed-append)[d]]
+(live: $delay * 7)[(stop:)(append: ?timed-append)[i]]
+(live: $delay * 8)[(stop:)(append: ?timed-append)[n]]
+(live: $delay * 9)[(stop:)(append: ?timed-append)[g -]]
+(live: $delay * 10)[(stop:)(append: ?timed-append)[-]]
+(live: $delay * 11)[(stop:)(append: ?timed-append)[d]]
+(live: $delay * 12)[(stop:)(append: ?timed-append)[a]]
+(live: $delay * 13)[(stop:)(append: ?timed-append)[t]]
+(live: $delay * 14)[(stop:)(append: ?timed-append)[a]]
+(live: $delay * 15)[(stop:)(append: ?timed-append)[s]]
+(live: $delay * 16)[(stop:)(append: ?timed-append)[e]]
+(live: $delay * 17)[(stop:)(append: ?timed-append)[t]]
+(live: $delay * 18)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 19)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 20)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 21)[(stop:)(append: ?timed-append)[ <br>]]
+(live: $delay * 22)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 23)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 24)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 25)[(stop:)(append: ?timed-append)[ <br>]]
+(live: $delay * 26)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 27)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 28)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 29)[(stop:)(append: ?timed-append)[ <br>]]
+(live: $delay * 30)[(stop:)(append: ?timed-append)[U]]
+(live: $delay * 31)[(stop:)(append: ?timed-append)[p]]
+(live: $delay * 32)[(stop:)(append: ?timed-append)[l]]
+(live: $delay * 33)[(stop:)(append: ?timed-append)[o]]
+(live: $delay * 34)[(stop:)(append: ?timed-append)[a]]
+(live: $delay * 35)[(stop:)(append: ?timed-append)[d]]
+(live: $delay * 36)[(stop:)(append: ?timed-append)[/]]
+(live: $delay * 37)[(stop:)(append: ?timed-append)[/]]
+(live: $delay * 38)[(stop:)(append: ?timed-append)[c]]
+(live: $delay * 39)[(stop:)(append: ?timed-append)[o]]
+(live: $delay * 40)[(stop:)(append: ?timed-append)[m]]
+(live: $delay * 41)[(stop:)(append: ?timed-append)[p]]
+(live: $delay * 42)[(stop:)(append: ?timed-append)[l]]
+(live: $delay * 43)[(stop:)(append: ?timed-append)[e]]
+(live: $delay * 44)[(stop:)(append: ?timed-append)[t]]
+(live: $delay * 45)[(stop:)(append: ?timed-append)[e]]
+(live: $delay * 46)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 47)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 48)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 49)[(stop:)(append: ?timed-append)[<br>]]
+(live: $delay * 50)[(stop:)(append: ?timed-append)[  ]]
+(live: $delay * 51)[(stop:)(append: ?timed-append)[c]]
+(live: $delay * 52)[(stop:)(append: ?timed-append)[o]]
+(live: $delay * 53)[(stop:)(append: ?timed-append)[n]]
+(live: $delay * 54)[(stop:)(append: ?timed-append)[n]]
+(live: $delay * 55)[(stop:)(append: ?timed-append)[e]]
+(live: $delay * 56)[(stop:)(append: ?timed-append)[c]]
+(live: $delay * 57)[(stop:)(append: ?timed-append)[t]]
+(live: $delay * 58)[(stop:)(append: ?timed-append)[i]]
+(live: $delay * 59)[(stop:)(append: ?timed-append)[n]]
+(live: $delay * 60)[(stop:)(append: ?timed-append)[g]]
+(live: $delay * 61)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 62)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 63)[(stop:)(append: ?timed-append)[.]]
+(live: $delay * 64)[(stop:)(append: ?timed-append)[<br>]]
+(live: $delay * 65)[(stop:)(append: ?timed-append)[ ]]
+(live: $delay * 66)[(stop:)(append: ?timed-append)[[[dataset connected|dataset connected]]]]</code>}
+<br>
+<br>
+<br>
+
+</font>
+</div>
+</div>

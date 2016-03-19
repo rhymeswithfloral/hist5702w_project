@@ -1,10 +1,11 @@
 cartodb_mh.png - loading your datasets
 
-cartodb_mh3.png - changing colours of markers
+cartodb_screencap1.png - your default map
 
 cartodb_mh1.png - layering datasets
 cartodb_mh2.png - layering datasets
 cartodb_mh4.png - layering dataset
+cartodb_mh3.png - changing colours of markers
 
 cartodb_mh6.png - adding lines to dataset
 cartodb_mh5.png - adding lines to dataset
@@ -16,5 +17,21 @@ cartodb_mh9.png - editing lines
 cartodb_mh10.png - editing the placement of your points, so that they aren't to 					far away or over lapping the path of the other lines layer
 cartodb_mh12.png - lines may appear connected when zoomed out
 cartodb_mh13.png - but they actually aren't - you can fix this by editing the 						placement of the line on the lines layer
+cartodb_MG19.png - changing colours opacity
 
-cartob_mh14.png - one path is done!
+cartodb_mh14.png - one path is done!
+
+cartodb_MG17.png - made a mistake with your coordinates?
+cartodb_MG18.png - made a mistake with your coordinates?
+
+cartodb_MG20.png
+cartodb_MG22.png - Simple + picking a background
+cartodb_MG23.png - Simple + picking a background
+cartodb_MG24.png - Simple + placenames
+cartodb_MG25.png - Simple + placenames
+cartodb_MG26.png - Simple + placenames
+
+cartodb_MG28.png - Torque
+cartodb_MG29.png - Torque
+cartodb_MG30.png - Torque + background
+cartodb_MG31.png - Torque + background
