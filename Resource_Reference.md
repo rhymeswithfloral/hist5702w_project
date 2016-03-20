@@ -17,7 +17,7 @@
 +https://upload.wikimedia.org/wikipedia/commons/b/b1/Magic_Hat.svg - __**Wiki Commons**__
 +https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Browser_window.svg/2000px-Browser_window.svg.png - __**Wiki Commons**__
 +https://www.flickr.com/photos/rvoegtli/8327407578 - __"Magic Moment" by Rosmarle Voegtll on Flickr__
-
++https://commons.wikimedia.org/wiki/File:Browser_window.svg - __**Wiki Commons**__
 ## Sound Effects
 +http://soundbible.com/1821-IMac-Startup-Chime.html - Public Domain
 +https://www.freesound.org/people/info@in-tune.nl/sounds/59239/ - Licensed under Creative Commons
