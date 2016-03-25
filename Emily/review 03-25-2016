@@ -1,0 +1,109 @@
+Review of Trials of the Datamancer
+03-25-2016
+''Trails of the Datamancer''
+The way in which data is interpreted often relies on how the data is represented, or visualized. For example, you will interpret data differently in a spreadsheet than in a bar graph, or a map. Different kinds of data visualizations allow for a broader interpretation of the data, and lead to deeper analysis.
+
+This is a tutorial for how to create a data visualization, specifically an interactive map. In this tutorial, you will also learn how to clean, scrape, and organize your data using tools such as Import.io and regular expressions.
+
+''Your journey begins at dawn/night''
+
+'''
+Your prestigious Trails of the Datamancers (NO comma)
+
+There will be hundreds of other researchers heading to these trials hoping to impress the elite Datamancers and win the Hat of Historical Analysis.
+
+''You open the door to your hovel...''
+There are lots of tools and methods that you can use to clean up your data, which will make it easier for you to analyze and manipulate in all sorts of ways.
+
+If you want to learn more about these kinds of tools you can checkout DiRT: Digital Research Tools.
+
+For now, you can use some tools in the chest over there.
+
+''You open the tool chest''
+remove reference to Datamancers languages. Confusing.
+Stanford NER is ''A''  tool that works with Java
+''includes''
+2 last sentences of NER--contradictory?
+
+''You picked up Regular Expressions''
+Regular expressions are strings made up of characters, metacharacters, and operators that match a pattern of tokens (e.g. word, numbers, punctuation) in a text. They can also be used to manipulate text. Regular expressions can be used in all sorts of programs, but for cleaning a text file you simply need the find/replace box in a text editor. Entering a regular expression into the find field will highlight any and all text that matches the pattern of your regular expression.  After you've opened your text editor, check to see if you need to enable the "regular expressions" feature for find/replace.
+ 
+''You begin to read the manual...''
+"Since the goal is to construct a list..."---I don't think you actually say that this is the goal earlier on. You should add a line in.
+''appear in the string.''
+
+''You picked up OpenRefine...''
+OpenRefine uses data transformation tools to manipulate and modify large amounts of data. 
+
+Depending there a different download packages depending for both, as well as a download package for any linux users. The program runs locally on your computer and opens in a browser.--What?
+
+''Look at the data! It sure looks organized and clean!''
+you're
+too
+Suggest a website where you can find long/latitude
+
+''You wake up''
+Turn on your magical Lap-tope does NOT GO TO THE RIGHT SECTION
+
+''Feeling hopeless, you give up''
+capital Academia
+agian
+
+''You've arrived at the General Store''
+ALready
+
+''You picked up The Scrolls of Scrapping''
+Make sure they know they need Import.io before doing anything
+
+''You turn it on''
+Has references to the genealogy information. I don't think first I explain what this is. Is this passage linked to from Laurel's?
+
+''Let's try changing the basemap''
+we can choose for our map, including night-time maps, watercolour maps, and we even have the option of uploading our own basemap.
+DARK MATTER link is dead
+
+''Torque''
+case AN individual's
+
+''You stop in your tracks,''
+You drop everything you're carrying...
+
+
+''Great! What else?''
+
+The Commandant-Lariviere family seems to celebrate quite a few significant life events in Mattawa, including baptism, births, marriages etc.
+However, by the early 1900s, the family has moved away from the area, and are close to North Bay. 
+
+While maps like the one we've created are very useful, they need to be analyze in conjuncture with our sources, and other information we collected.
+
+If we look at the historical records that enumerate the family in North Bay in 1900, we see that they are living on an "Indian Reserve" outside of the city, and recorded as "Indian."
+
+This is interesting...
+(next passage)
+
+This is interesting, because if we look at the other documents that enumerate them in Mattawa, they were noted as "White" and "Half Breed French."
+
+What is a "Half Breed"?
+From your other research, you know that this term was used to describe:
+QUOTE.
+
+
+In fact, looking at the 1881 Census document that the Commandant-Lariviere family appears in, you see this note:
+NOTE (image)
+
+(next passage)
+So what does this mean?
+
+It's likely then that the family is Metis. This is also supported by some of your other secondary research, which talks about how government officials were often frustrated with the Metis population, as they were neither completely Indian, or White.
+
+So what does the map tell us about this family then?
+Well, it seems to suggest that despite dispering over time, Mattawa remains an important center for this family. Additionally, their recording in documents is typical of other Metis populations, being neither one or the other.
+
+What else have you learnED about data visualisations?
+
+
+NB: When we give the option to select either Commandant/Witchhunters, we should on the next page for each explain what the data of each is (because I don't think we do!)
+''Datamancer or DatamancerS''
+''Organise or Organize''
+''Academia or academia''
+''visualizations or visualisations''
