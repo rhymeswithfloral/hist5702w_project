@@ -2,7 +2,6 @@
 ---
 ## Clipart Sources (Licensed under Creative Commons or Public Domain)
 ### Pixabay
-* https://pixabay.com/static/uploads/photo/2014/12/21/23/55/door-576356_960_720.png -  __**Pixabay, available for use under the creative commons CC0**__
 * https://pixabay.com/en/door-wood-wooden-entry-entrance-575987/ -  __**Pixabay, available for use under the creative commons CC0**__
 * https://pixabay.com/static/uploads/photo/2014/03/25/15/17/cross-296395_960_720.png - __**Pixabay, available for use under the creative commons CC0**__
 * https://pixabay.com/static/uploads/photo/2014/04/30/15/59/target-335029_960_720.png - __**Pixabay, available for use under the creative commons CC0**__
