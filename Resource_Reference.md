@@ -24,7 +24,7 @@
 ### DeviantArt, Flickr, etc.
 * http://fence-post.deviantart.com/art/Ascii-Kaleidoscope-Animation-71146017 - __"Ascii Kaleidoscope Animation" by fence-post, on deviantart Licensed under Creative Commons__
 * http://pkoller.deviantart.com/art/Obvious-Troll-or-Ogre-543360961 - __"Obvious Troll... or Orgre" by PKoller, on deviantart Licensed under Creative Commons__
-* https://www.flickr.com/photos/rvoegtli/8327407578 - __"Magic Moment" by Rosmarle Voegtll on Flickr__
+* https://www.flickr.com/photos/rvoegtli/8327407578 - __"Magic Moment" by Rosmarle Voegtll on Flickr, under Creative Commons we are free to "Adapt — remix, transform, and build upon the material for any purpose, even commercially."__
 
 
 ## Sound Effects
