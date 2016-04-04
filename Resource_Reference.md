@@ -15,6 +15,7 @@
 ### Cliker
 * http://www.clker.com/clipart-pirate-flag-boat-.html - __released under the lastest version of the creative commons CC0 public domain dedication__
 * http://www.clker.com/clipart-blue-vortex.html - __released under the lastest version of the creative commons CC0 public domain dedication__
+* http://www.clker.com/clipart-385065.html -  __released under the lastest version of the creative commons CC0 public domain dedication__
 
 ### Other
 * http://www.clipartlord.com/wp-content/uploads/2014/01/treasure-chest5.png __This free locked treasure chest clip art is brought to you courtesy of Vladimir Zuñiga of Foca.tk.__
